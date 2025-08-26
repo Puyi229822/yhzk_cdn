@@ -1,1 +1,1 @@
-### static files
+### yhzk  cdn
