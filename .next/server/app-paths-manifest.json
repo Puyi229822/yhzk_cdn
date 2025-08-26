@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/[lng]/AboutMe/page": "app/[lng]/AboutMe/page.js",
+  "/[lng]/News/page": "app/[lng]/News/page.js",
+  "/[lng]/News/[id]/page": "app/[lng]/News/[id]/page.js",
+  "/[lng]/ProductCenter/[categoryId]/page": "app/[lng]/ProductCenter/[categoryId]/page.js",
+  "/[lng]/Application/[id]/page": "app/[lng]/Application/[id]/page.js",
+  "/[lng]/TechService/page": "app/[lng]/TechService/page.js",
+  "/[lng]/page": "app/[lng]/page.js",
+  "/[lng]/Application/page": "app/[lng]/Application/page.js",
+  "/[lng]/ProductCenter/[categoryId]/detail/[id]/page": "app/[lng]/ProductCenter/[categoryId]/detail/[id]/page.js"
+}
