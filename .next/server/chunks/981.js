@@ -1,1 +1,0 @@
-"use strict";exports.id=981,exports.ids=[981],exports.modules={48981:e=>{e.exports=JSON.parse('{"HomePage":"首页","ProducCenterPage":"产品中心","TechServicePage":"技术服务","ApplicationPage":"应用","NewsPage":"新闻","AboutMePage":"关于我们","contact":"联系我们"}')}};
